@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Eclipsebizreach@gmail.com
+      label: ECLIPSE
       color: text-primary
       type: Badge
     elementId: ''
