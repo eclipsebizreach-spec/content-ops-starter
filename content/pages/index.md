@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Eclipse
 slug: /
 sections:
   - type: GenericSection
