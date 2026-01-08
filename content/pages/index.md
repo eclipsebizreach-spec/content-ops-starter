@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Home
       color: text-dark
       type: TitleBlock
     subtitle: Eclipse
