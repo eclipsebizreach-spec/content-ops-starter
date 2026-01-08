@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ECLIPSE
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
